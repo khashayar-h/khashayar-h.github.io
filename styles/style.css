@@ -29,10 +29,10 @@
     }
   }
 
-  p:hover {
+  h5:hover {
     transform: scale(1.07);
   }
-  p {
+  h5 {
     transition: 0.2s;
   }
 
